@@ -1,7 +1,7 @@
 <template>
   <main class="relative">
     <div class="max-w-6xl mx-auto mt-4 md:mt-8 mb-10 px-4 lg:px-0">
-		<a href="https://forms.office.com/r/VJXka1ipsC"><img src="/images/hero-2022.png" class="object-fit rounded-lg shadow-md mb-2 md:mb-8" /></a>
+		<a href="https://forms.office.com/r/5JVDyEF5mx"><img src="/images/hero-2022.png" class="object-fit rounded-lg shadow-md mb-2 md:mb-8" /></a>
         
         <h2 class="text-2xl md:text-3xl font-bold mb-3 md:mb-4">About NPSC23</h2>
         <div class="flex flex-col md:flex-row">
@@ -57,7 +57,7 @@
 					UAEFlora is a fully referenced, extensively validated, evolving, virtual data base which has been designed and developed to introduce native plants form the biodiversity of UAE to the Global scientific communities, with the help and support of UAE plants’ expert from all the emirates.  
                 </p>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
-                    This data base will be accessible to experts, researchers, and public to support the UAE flora conservation and reintroduction efforts. For this purpose, over 1000 native plants have been identified from more than 200 published articles and books from national and international author..
+                    This data base will be accessible to experts, researchers, and public to support the UAE flora conservation and reintroduction efforts. For this purpose, over 760 native plants have been identified from more than 200 published articles and books from national and international author..
                 </p>
             </div>
             <div class="md:mr-2 lg:mr-6 md:w-1/2">
@@ -95,24 +95,26 @@
         <div class="md:hidden sm:block lg:block">
             <div class="flex flex-col lg:flex-row md:gap-4 items-center">
                 <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/fujairahholdings.png" />
-                <img class="h-32" src="/images/manahil.png" />
-                <img class="h-12" src="/images/uaeuniversity.png" />
-                <img class="h-12 md:ml-4 md:mr-6 mt-6 md:mt-0" src="/images/sharjah.png" />
-				<img class="h-12 md:ml-4 md:mr-6 mt-6 md:mt-0" src="/images/raibal.png" />
-            </div>
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/manahil.png" />
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/uaeuniversity.png" />
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/sharjah.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/raibal.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/ummu.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/oman.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/icaba.png" />
+            </div> 	
         </div>
 
         <div class="hidden md:block lg:hidden">
             <div class="flex flex-row gap-4 items-center">
               <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/fujairahholdings.png" />
-                <img class="h-32" src="/images/manahil.png" />
-                <img class="h-12" src="/images/uaeuniversity.png" />
-                <img class="h-12 md:ml-4 md:mr-6 mt-6 md:mt-0" src="/images/sharjah.png" />
-				<img class="h-12 md:ml-4 md:mr-6 mt-6 md:mt-0" src="/images/raibal.png" />
-            </div>
-            <div class="flex flex-row gap-4 items-center">
-
-							<img class="h-32 mt-3 md:mt-0" src="/images/ios.png" />
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/manahil.png" />
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/uaeuniversity.png" />
+                <img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/sharjah.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/raibal.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/ummu.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/oman.png" />
+				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/icaba.png" />
             </div>
         </div>
 

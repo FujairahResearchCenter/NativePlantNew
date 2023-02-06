@@ -34,7 +34,7 @@ import HelloWorld from "./components/HelloWorld.vue";
               class="py-2 border-b-4 border-white hover:border-b-4 hover:border-green-600 hover:transition hover:ease-in-out duration-300"
             >
               <a
-                href="https://forms.office.com/r/VJXka1ipsC"
+                href="https://forms.office.com/r/5JVDyEF5mx"
                 target="_blank"
                 rel="noreferrer" 
                 ><strong>REGISTER</strong></a
